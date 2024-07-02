@@ -1,0 +1,447 @@
+{
+
+    "currency": "DZD",
+    "pay": "Add to balance",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "done": "Done",
+    "buyt": "Buy",
+    "save": "Save",
+    "avatar": {
+        "0": "Background",
+        "1": "Body",
+        "2": "Body color",
+        "3": "Eyes",
+        "4": "Facial hair",
+        "5": "Facial hair color",
+        "6": "Hair",
+        "7": "Hair color",
+        "8": "Skin color",
+        "9": "Mouth",
+        "10": "Nose"
+
+    },
+    "next": "Next",
+    "admin": {
+        "title": "ADMIN : Support Chat",
+        "desc": "All users are displayed here",
+        "search": "Search...",
+        "all": "All",
+        "recent": "Recent"
+    },
+    "headers": {
+        "home": "Home",
+        "orders": "Orders",
+        "earnings": "Earnings",
+        "settings": "Settings",
+        "add_funds": "Add Funds",
+        "deposits": "Deposits",
+        "refunds": "Refunds",
+        "crypto":"Crypto Deposits"
+    },
+
+    "update": {
+        "title": "Please update the app",
+        "desc": "A newer version of Tala3 is available. Please update your application to continue using Tala3."
+    },
+    "about": {
+        "p1": "Tala3 is a groundbreaking social marketing application, as the pioneering plateform of its kind in the country, Tala3 offers a comprehensive suite of services tailored to enhance social media presenec, With a focus on faciliting the sale of likes, comments, and various engagement metrics accros multiple social networks, Tala3 empowers individuals and buisnesses alike to amplify their online influence.",
+        "t1": "Our App",
+        "p2": "Tala3 is a company of CODZ, an Algerian software development company, CODZ specializes in creating innovative digital solutions, bringing cutting-edge technology to the Algerian market. With a focus on user-centric design and seamless functionality, CODZ is commited to delivering high-quality software that meets the needs of its users.",
+        "t2": "CODZ.dev"
+    },
+    "buy": {
+      "put_link": "Put your link here",
+      "link": "Link",
+      "p1": "- Copy the link from a browser",
+      "p2": "- Example : ",
+        "p3": "- Please make sure that your social media account is public",
+        "p4": "- Orders may take up to 48 hours to complete",
+        "p5": "- Boosted services can drop up to 15% after completion",
+      "choose_quantity": "Choose quantity",
+      "between": "Between",
+        "and": "and",
+        "quantity": "Quantity",
+        "start_time": "Start time",
+        "total": "Total",
+        "subtotal": "Subtotal",
+        "discount": "Discount",
+        "valid_link": "Please enter a valid link",
+        "valid_quantity": "Please enter a valid quantity",
+        "not_enough": "You don't have enough balance",
+        "active_order": "There is already an active order with this link",
+        "comments": "Comments",
+        "comments_subtitle": "You can enter multiple comments separated by a new line",
+        "discord": "Before ordering, make sure that you have added this bot to your server, don't worry, it will just generate invite links for your server",
+        "addbot": "Add the bot"
+
+
+    },
+
+    "support": {
+        "type_message": "Type your message here",
+        "load_earlier": "Load earlier messages"
+    },
+
+    "code_verification": {
+        "title": "Code verification",
+        "desc": "Please enter the verification code sent to your email",
+        "code": "Verification code",
+        "not_received": "Didn't receive the code?",
+        "resend": "Resend code",
+        "verify": "Verify"
+    },
+
+    "wheel": {
+        "social_media": "Public Social Media Link"
+    },
+
+    "errors": {
+        "code": "Code is incorrect",
+        "email_password": "Invalid identifier or password",
+        "email_not_exist": "Email does not exist",
+        "password_length": "Password must be at least 8 characters long",
+        "username_length": "Username must be at least 4 characters long",
+        "empty": "Please fill all the fields",
+        "username_used": "Username is already used",
+        "email_used": "Email is already used",
+        "phone_used": "Phone number is already used",
+        "username_format": "Username must be at least 4 characters long, contains only letters, numbers, and underscores",
+        "email_format": "Invalid email format",
+        "phone_format": "Invalid phone number format",
+        "passwords_not_match": "Passwords do not match",
+        "password_incorrect": "Incorrect password",
+        "referral": "Invalid referral code",
+        "social_media": "Please enter a valid social media link (Instagram, Facebook, TikTok)"
+
+    },
+    "profile": {
+        "title": "Profile"
+    },
+
+    "custom": {
+        "title": "Get your custom referral code",
+        "desc": "Must be unique with 6 characters long (letters and numbers only)",
+        "referral": "New referral code"
+    },
+    "passwords": {
+        "reset": "Reset your password",
+        "reset_desc": "You will receive an email with a link to reset your password",
+        "send_instructions": "Send instructions",
+        "desc": "New password",
+        "change_desc": "Change your password",
+        "password": "Password",
+        "cpassword": "Confirm password",
+        "old_password": "Old password",
+        "old_password_desc": "Enter your old password",
+        "cpassword_desc": "Must be at least 8 characters long"
+    },
+    "onboarding": {
+        "t1": "Choose you language",
+        "t2": "Using the app",
+        "t3": "Boost your social media presence",
+        "t4": "Earn money",
+        "p1": "Please choose your preferred language to continue",
+        "p2": "Tala3 is the first social media marketing app in Algeria, allowing you to promote your social media presence and increase your popularity.",
+        "p3": "You can get followers, likes, views from real people and increase your popularity on social medias.",
+        "p4": "Share your referral code with your firneds and earn money for each order they make."
+    },
+    "login": {
+        "title": "Login to use the app",
+        "email": "Username or email",
+        "password": "Password",
+        "forgot": "Forgot password?",
+        "login": "Login",
+        "register1": "Don't have an account?",
+        "register2": "Register"
+    },
+
+    "register": {
+        "username": "Username",
+        "username_desc": "Must be unique, at least 4 characters long, contains only letters, numbers, and underscores",
+        "email": "Email",
+        "email_desc": "We will send you a verification code to this email",
+        "password": "Password",
+        "password_desc": "Must be at least 8 characters long",
+        "cpassword": "Confirm password",
+        "phone": "Phone number",
+        "referral": "Referral Code (Optional)",
+        "referral_desc": "You can enter a referral code if you have one",
+        "register": "Register",
+        "terms": "by registering, you agree to our terms of services and privacy policy",
+        "terms1": "Terms of services",
+        "terms2": "Privacy policy",
+        "login1": "Already have an account?",
+        "login2": "Log in"
+    },
+    "start": {
+        "title": "Elevate your social media presence",
+        "desc": "Get more followers, likes, views and more...",
+        "login": "Log in",
+        "register": "Create an account"
+    },
+    "home": {
+        "welcome": "Welcome",
+        "many_services": "we offer many services, we do not provide spamming / bot / non-organic services"
+    },
+    "orders": {
+        "desc": "All the services you ordered will be shown here",
+        "support": "Chat with our team"
+    },
+
+    "deposits": {
+        "desc": "All the deposits you made will be shown here",
+        "crypto": "Crypto Deposits"
+    },
+    "refunds": {
+        "desc": "All the refunds will be shown here"
+    },
+
+    
+    "crypto": {
+        "desc": "All the crypto deposits you made will be shown here"
+    },
+
+    "earnings": {
+        "title": "Earnings",
+        "desc": "With Tala3, you can earn money, earn gifts, and get free services",
+        "free_followers": "Get free followers",
+        "free_followers_desc": "You can easily win followers by spinning the wheel. You can spin the wheel every 24 hours",
+        "earnings_desc": "Earn money into your balance by sharing your referral code",
+        "earnings": "My earnings",
+        "spin": "Spin the wheel",
+        "no_balance": "You must deposit first"
+
+    },
+
+    "add_funds": {
+        "desc": "Securely add funds to your account using one of the following methods",
+        "amount": "Amount in DZD",
+        "amount_desc": "Minimum amount is 300 DZD, and 1200 DZD for crypto payments",
+        "deposits": "Deposits",
+        "add": "Add to balance"
+    },
+    "settings": {
+        "profile": "Profile",
+        "security": "Security",
+        "avatar": "Avatar", 
+        "help": "Help",
+        "referral": "Your referral code",
+        "share": "Share your referral code",
+        "purchases": "Purchases",
+        "custom_referral": "Custom referral code",
+        "settings": "Settings",
+        "language": "Language",
+        "website": "Website",
+        "faq": "F.A.Q",
+        "deposits": "Deposits",
+        "refunds": "Refunds",
+        "logout": "Logout",
+        "about": "About",
+        "about_us": "About us",
+        "privacy_policy": "Privacy policy",
+        "terms_of_services": "Terms of services",
+        "copied": "Copied"
+    },
+    "services_type": {
+        "mixed": "Mixed",
+        "real": "Real",
+        "boosted": "Boosted",
+        "dislikes": "Dislikes",
+        "algerian": "Algerian",
+        "arabic": "Arabic",
+        "custom_com": "Custom comments",
+        "random_com": "Random comments",
+        "angry": "Angry",
+        "care": "Care",
+        "love": "Love",
+        "laugh": "Haha",
+        "sad": "Sad",
+        "wow": "Wow",
+        "negative": "Negative",
+        "positive": "Positive",
+        "t_good_idea": "Good idea",
+        "t_haha": "Haha",
+        "t_wow": "Wow",
+        "t_love": "Love",
+        "t_thanks": "Thanks"
+    },
+    "services": {
+        "tala3": 
+        {
+            "likes": "Support for Marketing - Organic growth"
+        },
+        "instagram": {
+            "views": "Reel views",
+            "followers": "Followers",
+            "likes": "Likes",
+            "comments": "Comments",
+            "saves": "Saves",
+            "impressions": "Impressions and reach"
+        },
+        "youtube": {
+            "views": "Views",
+            "subscribers": "Subscribers",
+            "likes": "Likes",
+            "comments": "Comments",
+            "shares": "Shares",
+            "dislikes": "Dislikes"
+        },
+        "tiktok": {
+            "views": "Views",
+            "followers": "Followers",
+            "likes": "Likes",
+            "comments": "Comments",
+            "shares": "Shares",
+            "saves": "Saves"
+        },
+        "snapchat": {
+            "friend_requests": "Friend requests"
+        },
+        "facebook": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "friend_requests": "Friend requests",
+            "group_members": "Group members"
+
+        },
+        "x": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "retweets": "Retweets"
+        },
+        "pinterest": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "saves": "Saves"
+        },
+        "spotify": {
+            "plays": "Plays",
+            "followers": "Followers",
+            "likes": "Likes",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "saves": "Saves"
+        },
+        "reddit": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "subscribers": "Subscribers",
+            "upvotes": "Upvotes",
+            "downvotes": "Downvotes",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "saves": "Saves"
+        },
+        "linkedin": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "saves": "Saves"
+        },
+        "twitch": {
+            "views": "Views",
+            "followers": "Followers",
+            "likes": "Likes",
+            "comments": "Comments",
+            "shares": "Shares",
+            "saves": "Saves"
+        },
+        "soundcloud": {
+            "plays": "Plays",
+            "followers": "Followers",
+            "likes": "Likes",
+            "comments": "Comments",
+            "shares": "Shares",
+            "saves": "Saves"
+        },
+        "telegram": {
+            "members": "Members",
+            "views": "Views",
+            "followers": "Followers",
+            "likes": "Likes",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "saves": "Saves"
+        },
+        "whatsapp": {
+            "members": "Members",
+            "views": "Views",
+            "followers": "Followers",
+            "likes": "Likes",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "saves": "Saves"
+        },
+        "discord": {
+            "members": "Members",
+            "direct_messages": "Direct messages"
+        },
+        "fiverr": {
+            "favorites": "Favorites"
+        },
+        "threads": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "comments": "Comments",
+            "shares": "Shares",
+            "retweets": "Retweets",
+            "saves": "Saves"
+        },
+        "onlyfans": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "comments": "Comments",
+            "shares": "Shares",
+            "reactions": "Reactions",
+            "saves": "Saves"
+        },
+        "quora": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "comments": "Comments",
+            "shares": "Shares",
+            "saves": "Saves",
+            "upvotes": "Upvotes",
+            "downvotes": "Downvotes"
+        },
+        "line": {
+            "followers": "Followers"
+        },
+        "vimeo": {
+            "views": "Views",
+            "likes": "Likes",
+            "followers": "Followers",
+            "comments": "Comments",
+            "shares": "Shares",
+            "saves": "Saves"
+        },
+        "clubhouse": {
+            "followers": "Followers"
+        }
+    }
+
+}
