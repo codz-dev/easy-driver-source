@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "EasyDriver",
-    "slug": "EasyDriver",
+    "name": "EasyDrive driver",
+    "slug": "EasyDriver-driver",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +29,11 @@
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4af7d105-38f6-41f0-898a-27b8cad44c7b"
+      }
+    }
   }
 }

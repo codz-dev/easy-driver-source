@@ -77,7 +77,9 @@ const Step1 = () => {
             <Button 
             mode="contained"
             disabled={!isChecked}
-            title="Start" onPress={handleButtonClick} />
+            title="Start" onPress={handleButtonClick}>
+            Start 
+            </Button>
         </View>
     );
 };

@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-import { View, Text, Button } from 'react-native';
+import { View, Text } from 'react-native';
 import { CheckBox } from '@react-native-community/checkbox';
+import { Button } from 'react-native';
 
 const Step = () => {
     const [isChecked, setIsChecked] = useState(false);

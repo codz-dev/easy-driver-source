@@ -43,11 +43,12 @@ const Step1 = () => {
             return;
         }
 
-        // phone validation
         if (!phoneValidator(formData.phone)) {
             alert('Please enter a valid phone number');
             return;
         }
+
+    
 
 
         navigation.navigate('Liveness'); // Navigate to Step2 screen
@@ -100,7 +101,9 @@ const Step1 = () => {
             <Button 
             mode="contained"
             
-            title="Start" onPress={handleButtonClick} />
+             onPress={handleButtonClick}>
+                Next
+            </Button>
         </View>
     );
 };
